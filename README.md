@@ -62,6 +62,6 @@
 
 <!-- Contador de visitantes -->
 <div align="center">
-  <p><b>👀 Visitantes:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=juliacrws&color=blueviolet&style=flat-square" alt="Contador de visitantes"/>
+<p><b>👀 Visitantes:</b></p>
+<img src="https://komarev.com/ghpvc/?username=juliacrws&color=9400D3&style=flat-square" alt="Contador de visitantes"/>
 </div>
