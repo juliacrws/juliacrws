@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/Zt5GfKu.png" width="100%" alt="Banner Julia Moraes">
+  <img src="[https://i.imgur.com/Zt5GfKu.png](https://sdmntprwestus3.oaiusercontent.com/files/00000000-4050-61fd-a360-1274ef79202f/raw?se=2025-08-12T19%3A02%3A28Z&sp=r&sv=2024-08-04&sr=b&scid=622dce67-5037-5b05-be63-c686f6f16691&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-12T17%3A47%3A00Z&ske=2025-08-13T17%3A47%3A00Z&sks=b&skv=2024-08-04&sig=dEMnCang0Z3Z6ZTuim8G8QhSCkSRyrRrIdiWvCFbk3k%3D)" width="100%" alt="Banner Julia Moraes">
 </div>
 
 <!-- Saudação -->
