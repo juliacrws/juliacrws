@@ -63,5 +63,5 @@
 <!-- Contador de visitantes -->
 <div align="center">
   <p><b>👀 Visitantes:</b></p>
-  <img src="https://profile-counter.glitch.me/{juliacrws}/count.svg" alt="Contador de visitantes"/>
+  <img src="https://profile-counter.glitch.me/juliacrws/count.svg" alt="Contador de visitantes"/>
 </div>
