@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/juliacrws/juliacrws/issues/1](https://private-user-images.githubusercontent.com/208690689/477212001-6fd90dd4-6973-4fcf-8cf4-7b0780ea9262.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMjMzMzIsIm5iZiI6MTc1NTAyMzAzMiwicGF0aCI6Ii8yMDg2OTA2ODkvNDc3MjEyMDAxLTZmZDkwZGQ0LTY5NzMtNGZjZi04Y2Y0LTdiMDc4MGVhOTI2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxMlQxODIzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzVmZTMxMjdlZDllODFhYjRmNzg4YmRmMGJlNTIxMzM1ZmViNDlmNWM0M2Q3MjYwNDZiYmEyMTgwMGVjMzI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.mL83t0p1L46H9J5F-3o8L9Bz_6TM-EZhE2VwZy_JCvc" width="100%" alt="Banner Julia Moraes">
+  <img src="https://raw.githubusercontent.com/juliacrws/juliacrws/main/banner-julia-moraes.png" width="100%" alt="Banner Julia Moraes">
 </div>
 
 <!-- Saudação -->
