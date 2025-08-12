@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/SEU-LINK-AQUI.png" width="100%" alt="Banner Julia Moraes">
+  <img src="https://github.com/juliacrws/juliacrws/issues/1" width="100%" alt="Banner Julia Moraes">
 </div>
 
 <!-- Saudação -->
