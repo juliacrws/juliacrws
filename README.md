@@ -8,11 +8,11 @@
 ---
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=juliacrws&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true&rank_icon=github" alt="Github stats" height="160"/>
+  <a href="https://github.com/juliacrws">
+    <img src="https://github-readme-stats.vercel.app/api?username=juliacrws&theme=blueberry&hide_border=true&line_height=20&show_icons=true&rank_icon=github&include_all_commits=true" alt="Github stats" height="160"/>
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" height="160"/>
+  <a href="https://github.com/juliacrws">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs" height="160"/>
   </a>
 </div>
 
