@@ -1,77 +1,66 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juliacrws/juliacrws/main/banner-julia-moraes.png?v=1" alt="Banner Futurista Julia Moraes" width="100%">
+  <img src="https://raw.githubusercontent.com/juliacrws/juliacrws/main/banner-julia-moraes.png" width="100%" alt="Banner Julia Moraes">
+</div>
+
+<h1 align="center">✨ Oii, me chamo Julia! 👋</h1>
+<h3 align="center">💻 Estudante de Técnico em Informática | 🎓 Futura jornalista | 🚀 Apaixonada por tecnologia e comunicação</h3>
+
+---
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=juliacrws&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true&rank_icon=github" alt="Github stats" height="160"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" height="160"/>
+  </a>
 </div>
 
 <div align="center">
-  <h1 style="border-bottom: none;">JULIA MORAES</h1>
-  <p style="font-size: 1.2rem; font-weight: bold; color: #b392f0;">
-    Estudante de Técnico em Informática &nbsp;|&nbsp; Futura Jornalista &nbsp;|&nbsp; Apaixonada por Tecnologia e Comunicação
-  </p>
+  <img src="https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg" alt="github contribution grid snake"/>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h3>⚡ IDENTIDADE_DO_PERFIL</h3>
-  <p align="center" style="max-width: 600px;">
-    Unindo o rigor do código à clareza da comunicação. Meu foco é a intersecção entre <strong>Desenvolvimento de Software</strong>, <strong>Jornalismo de Dados</strong> e <strong>Investigação</strong>. Busco construir soluções tecnológicas que tragam transparência e eficiência. Perfil técnico, analítico e orientado a resultados.
-  </p>
+  <h3>🚀 Tecnologias e Ferramentas</h3>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,bootstrap,python,github,c,cpp,cs,dotnet&perline=12" alt="skills"/>
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MVC-Architecture-000000?style=for-the-badge&logo=code&logoColor=white" alt="MVC">
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h3>🛠️ ARSENAL_TECNOLOGICO</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,html,css,bootstrap,dotnet,mssql,git,github,figma&theme=dark&perline=13" alt="Tech Stack" />
+  <h3>💡 Sobre mim</h3>
+  <p>📚 Estudante dedicada e curiosa | 🎯 Buscando unir tecnologia e comunicação | ☕ Movida a café e bons desafios</p>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <h3>🚀 MODULOS_RECENTES</h3>
-        <p>Desenvolvimento focado no ecossistema .NET</p>
-        <code>C#</code> &nbsp; <code>ASP.NET Core</code> &nbsp; <code>Entity Framework</code><br>
-        <code>MVC Pattern</code> &nbsp; <code>SQL Server</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 ANALISE_DE_DADOS</h3>
-  <br>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacrws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=2dd4bf&text_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff" />
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliacrws_GITHUB&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=db2777&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📡 ESTABELECER_CONEXAO</h3>
-  <br>
+  <h3>📬 Me encontre aqui</h3>
+  <a href="https://www.instagram.com/ju.moraees_?igsh=MXd3Z2N2Y3UxaWgxcQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://www.linkedin.com/in/julia-moraes-0536b7272/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0a0a0a" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:juh.moraes2409@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836&color=0a0a0a" alt="Email Badge"/>
+  <a href="mailto:juh.moraes2409@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-<br>
+---
+
 <div align="center">
-  <p style="font-size: 10px; color: #555;">STATUS_DO_SISTEMA: ONLINE 🟢</p>
+<p><b>👀 Visitantes:</b></p>
+<img src="https://komarev.com/ghpvc/?username=juliacrws&color=9400D3&style=flat-square" alt="Contador de visitantes"/>
 </div>
