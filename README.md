@@ -7,14 +7,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/juliacrws">
-    <img src="https://github-readme-stats.vercel.app/api?username=juliacrws&theme=blueberry&hide_border=true&line_height=20&show_icons=true&rank_icon=github&include_all_commits=true" alt="Github stats" height="160"/>
-  </a>
-  <a href="https://github.com/juliacrws">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs" height="160"/>
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg" alt="github contribution grid snake"/>
