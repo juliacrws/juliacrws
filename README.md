@@ -11,19 +11,19 @@
   💻 Estudante de Técnico em Informática | 🎓 Futura jornalista | 🚀 Apaixonada por tecnologia e comunicação
 </h3>
 
+<br>
+
 ---
 
 <!-- Stats e linguagens -->
 <div align="center">
 
-  <!-- Github Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=juliacrws&theme=blueberry&count_private=true&hide_border=true&line_height=22&show_icons=true&rank_icon=github"
     alt="GitHub Stats"
     height="160"
   />
 
-  <!-- Top Linguagens -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacrws&layout=compact&theme=blueberry&hide_border=true"
     alt="Linguagens mais usadas"
@@ -32,12 +32,16 @@
 
 </div>
 
+<br>
+
 ---
 
 <!-- Snake -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg" alt="Snake Animation"/>
+  <img src="https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg" alt="Snake Animation" width="100%"/>
 </div>
+
+<br>
 
 ---
 
@@ -45,28 +49,39 @@
 <div align="center">
   <h3>🚀 Tecnologias e Ferramentas</h3>
 
-  <img src="https://skillicons.dev/icons?i=js,html,css,figma,bootstrap,python,github,csharp,dotnet,azure,sqlserver,c,cpp" alt="Skills"/>
+  <img 
+    src="https://skillicons.dev/icons?i=js,html,css,figma,bootstrap,python,github,csharp,dotnet,azure,sqlserver,c,cpp"
+    alt="Skills"
+  />
 
   <br><br>
 
   <h4>📌 Tecnologias que aprendi recentemente</h4>
 
-  <p align="center">
+  <p>
     • Linguagem: <b>C#</b>  
     • Framework: <b>ASP.NET Core</b>  
     • ORM: <b>Entity Framework</b>  
     • Banco de Dados: <b>SQL Server (SSMS)</b>  
-    • Arquitetura: <b>MVC - Model View Controller</b>  
+    • Arquitetura: <b>MVC – Model View Controller</b>  
   </p>
 </div>
+
+<br>
 
 ---
 
 <!-- Bio rápida -->
 <div align="center">
   <h3>💡 Sobre mim</h3>
-  <p>📚 Estudante dedicada e curiosa | 🎯 Buscando unir tecnologia e comunicação | ☕ Movida a café e bons desafios</p>
+  <p>
+    📚 Estudante dedicada e curiosa |
+    🎯 Buscando unir tecnologia e comunicação |
+    ☕ Movida a café e bons desafios
+  </p>
 </div>
+
+<br>
 
 ---
 
@@ -87,6 +102,8 @@
   </a>
 
 </div>
+
+<br>
 
 ---
 
