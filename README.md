@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">✨ Oii, me chamo Julia! 👋</h1>
-<h3 align="center">💻 Estudante de Técnico em Informática | 🎓 Futura jornalista | 🚀 Apaixonada por tecnologia e comunicação</h3>
+<h3 align="center">💻 Estudante de Técnico em Informática | 🎓 Futura cientista de dados | 🚀 Apaixonada por tecnologia e comunicação</h3>
 
 ---
 
