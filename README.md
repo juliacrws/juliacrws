@@ -143,7 +143,7 @@ Atualmente estou aprofundando meus estudos em arquiteturas modernas de dados, es
 ## 📬 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/julia-moraes-0536b7272">
+<a href="[https://www.linkedin.com/in/julia-de-moraes-0536b7272/]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
